@@ -7,7 +7,7 @@
 > front-end frameworks
 > machine learning
 > javascript & python 
-> strawverry tiramisu 
+> strawberry tiramisu 
 ✨ thank you ! ✨ 
 ```
 <!---
